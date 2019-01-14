@@ -33,3 +33,32 @@ Many liberally minded people treat the alt-right's deviant aggressive behavior a
 Some people have tried to explain the rise of the alt-right as the reaction of maladjusted young men to a society which increasingly seems to have less room for them; that is, they take their radicalization to be a symbolic expression of hostility towards authority (Theory II). Many of the members themselves subscribe to the belief that they are an oppressed minority taking back what is rightfully theirs, in spite of already holding the majority of power and resources in the country (Theory III).
 
 From this case study, we can see that Theory I and IV are less forgiving and focus on reduction of harm to those outside the community, whereas Theory II and III try to lend more nuance to the reasoning behind the behavior and focus on the pain of those inside the community. This is perhaps comparable to the difference between prediction and inference - caring about the input and output vs caring about the exact thought processes and how to interpret them.
+
+### Waiting until the last minute
+> People often do things at the last minute (students turning in papers, professors grading exams, and so on).
+
+>\ a\. Ask yourself why the observation might be true and write down your explanations.
+
+People often procrastinate because they are paralyzed by stress. Distracting oneself from the task at hand provides a temporary relief from the stress of completing the task, which negatively reinforces more of this behavior. Repeat this enough times and only the overwhelming stress of being close to the deadline provides enough impetus to finally complete the task.
+
+>\ b\. Generalize the explanatory model – that is, induce the most general, abstract model you can produce that still has the original observation as a consequence.
+
+Stress causes people to avoid tasks they might otherwise enjoy or be equipped to handle.
+
+>\ c\. Induce an alternative model that also has the original observation as a consequence.
+
+People do not necessarily *do* things at the last minute, they simply turn things in close to the deadline. Most people would rather have more time to work on something than less, and since we seldom track when people begin their assignments, someone who began their assignment immediately and worked on it methodically over two weeks would look the same as someone who began it the night before as long as they turned it in at the same time. Even within the people who 'do things at the last minute,' we will have variation between turning things in two minutes before deadline and one day before deadline.
+
+>\ d\. For each of the two general models produced in (b) and (c), derive two interesting predictions (four predictions in total). Be sure the logical connection between your model and your predictions is explicitly stated and that any assumed facts concerning the world are made explicit.
+
+**Predictions for *b***
+
+1. Stress impacts performance in something like a quadratic curve - people are likely to complete a task when there is zero stress attached (aka hobbies and passion projects) and when there is overhwelming stress attached (aka the matter is urgent).
+2. Helping people practice relaxation techniques will mitigate their stress and thereby lessen the degree of procrastination.
+
+**Predictions for *c***
+
+1. If we were to track the amount of time people spend on an assignment and the time at which they turned it in, the two would be more or less uncorrelated.
+2. Those who spend more time on an assignment (and therefore procrastinated less) would report less stress than those who spend less time on an assignment (and therefore procrastinated more).
+
+## Selecting and fitting a model
